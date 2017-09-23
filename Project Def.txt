@@ -1,0 +1,6 @@
+3:Pub/Sub System.
+4:This system is used by many of the famous websites to manage their posts and data.
+5:Yes.There is an existing system based on the same concept.Our project will be better on the base of understanding.The existing system is very complex to understand.so our system will help people to understand the system and use the system properly.
+6:Hashes-To store mapping between the subscribers and the publishers,Linked List- To manage the subscribers,Queue-To display data to the subscribers.
+7:The Subscriber does not need to visit the publisher's page to check for new posts.If the subscriber has subscribes 100 publishers,it will be a hectic task to visit each publisher to see their updates.This system will help the subscriber to gain easy access to all his subscribed publisher's posts.
+8:To build all the packages of all the data structures we will be using in our project, And to link the oop concepts with the ds to gain maximum efficiency.
